@@ -9,7 +9,7 @@ Thanks for your interest in contributing to [ Learn-By-Teaching-Rust ]! There ar
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL](iamrowdymehul@gmail.com).
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
 ## MozSprint
 
