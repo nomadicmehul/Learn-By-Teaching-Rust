@@ -1,14 +1,16 @@
-# Contributing to [Project]
+# Contributing to [Learn-By-Teaching-Rust](https://github.com/rowdymehul/Learn-By-Teaching-Rust/)
 
 Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to [Learn-By-Teaching-Rust](https://github.com/rowdymehul/Learn-By-Teaching-Rust/)
+ :tada:! 
 
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This documents is a set of guidelines for contributing to [Learn-By-Teaching-Rust](https://github.com/rowdymehul/Learn-By-Teaching-Rust/)
+ on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
@@ -20,7 +22,7 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL](iamrowdymehul@gmail.com).
 
 ## What we're working on
 
