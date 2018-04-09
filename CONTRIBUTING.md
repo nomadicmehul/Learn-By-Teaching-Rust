@@ -5,7 +5,7 @@ Add a bit of welcome and cheer at the top
  :tada:! 
 
 Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>[Learn-By-Teaching-Rust](https://github.com/rowdymehul/Learn-By-Teaching-Rust/) is ...
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
